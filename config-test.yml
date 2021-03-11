@@ -1,2 +1,2 @@
 config:
-  test: master springcloud-config.dev.yml version = 7
+  test: master springcloud-config.dev.yml version = 2
